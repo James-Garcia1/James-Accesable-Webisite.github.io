@@ -1,0 +1,19 @@
+
+h1,h2 {
+    color:#CED097;
+}
+
+h1 {
+    font-size: xx-large;
+}
+h2 {
+    font-size: x-large;
+}
+
+table {
+    width: 80%;
+}
+th {
+    text-align: left;
+}
+
