@@ -1,6 +1,8 @@
-
+body {
+  text-align: center;
+}
 h1,h2 {
-    color:#CED097;
+    color:#FF8A32;
 }
 
 h1 {
